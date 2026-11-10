@@ -31,11 +31,11 @@ a:hover { text-decoration: underline; }
 }
 .profile-pic {
   display: block;
-  width: 128px;
-  height: 128px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid #fff;
+  border: 1px solid var(--accent);
   box-shadow: 0 0 0 1px #dce2e6;
   background: #eceef0;
 }
